@@ -1,5 +1,5 @@
-# DLL-Injector
-Standard and Manual DLL injection
+# DLL-Manual-Mapping
+Standard and Manual DLL mapping
 
 The manual injector loads a DLL in the target process without using the LoadLibrary API.
 Fixes the relocation section.
